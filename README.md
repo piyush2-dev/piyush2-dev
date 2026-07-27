@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Piyush+Sonkusare;AI%2FML+Developer;Full+Stack+Developer;Building+Intelligent+Experiences;Open+Source+Contributor;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+,+I'm+Piyush+Sonkusare;AI%2FML+Developer;Full+Stack+Developer;Building+Intelligent+Experiences;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
 
 <h1 align="center">Piyush Sonkusare</h1>
