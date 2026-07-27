@@ -1,26 +1,70 @@
-<h1 align="center">Hi 👋, I'm Piyush Sonkusare</h1>
+<!-- ========================= HEADER ========================= -->
 
-<h3 align="center">Developer • AI/ML Enthusiast • Building Intelligent Experiences</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Piyush+Sonkusare;AI%2FML+Developer;Full+Stack+Developer;Building+Intelligent+Experiences;Open+Source+Contributor;Always+Learning+New+Technologies" />
+</p>
+
+<h1 align="center">Piyush Sonkusare</h1>
+
+<h3 align="center">
+Developer • AI/ML Enthusiast • Building Intelligent Experiences
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyush2-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML-Developer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hackathon-Enthusiast-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Agentic%20AI-red?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## About Me
+# 💫 About Me
 
-- Currently working on **AI/ML projects, LLM-powered applications, and real-world solutions**
-- Learning **LangChain, Generative AI, RAG, OpenCV, and Agentic AI**
-- Looking to collaborate on **Open-source AI/ML, Generative AI, and Full-Stack projects**
-- Seeking guidance on **building production-ready AI systems and optimizing LLM workflows**
-- Explore my work: **https://github.com/piyush2-dev**
-- Ask me about **Data Structures & Algorithms, React, Python, and AI**
-- Email: **sonkusarepiyush9@gmail.com**
-- Passionate about **hackathons** and solving real-world problems through technology.
-- Fun fact: **Most of my side projects begin as experiments and eventually evolve into complete GitHub repositories.**
+- 🔭 Currently working on **AI/ML projects, LLM-powered applications, and real-world intelligent solutions**
+
+- 🌱 Currently learning **LangChain, LangGraph, RAG, Pinecone, OpenCV, Agentic AI, and Cloud**
+
+- 👯 Looking to collaborate on **Open Source AI/ML, Generative AI, Computer Vision, and Full Stack projects**
+
+- 🤝 Looking for help with **Production-ready LLM applications and scalable AI systems**
+
+- 👨‍💻 Portfolio & Projects:
+  
+  **https://github.com/piyush2-dev**
+
+- 💬 Ask me about
+
+  - Data Structures & Algorithms
+  - React.js
+  - Python
+  - AI/ML
+  - OpenCV
+  - LangChain
+
+- 📫 Reach me at
+
+  **sonkusarepiyush9@gmail.com**
+
+- ⚡ Fun Fact
+
+  *Most of my side projects start as experiments and eventually become complete GitHub repositories.*
 
 ---
 
-## Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/piyushsonkusare/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
@@ -32,28 +76,200 @@
 <a href="mailto:sonkusarepiyush9@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-</p>
-
----
-
-## Languages & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,fastapi,mysql,firebase,opencv,tensorflow,pytorch,tailwind,git,github,vscode,figma,aws" />
 
 </p>
 
 ---
 
-## GitHub Stats
+# 💻 Languages & Tools
 
-![](https://github-readme-stats.vercel.app/api?username=piyush2-dev&theme=tokyonight&hide_border=true&show_icons=true)
+<p align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=piyush2-dev&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,typescript,react,nextjs,nodejs,express,fastapi,django,flask,mysql,mongodb,firebase,opencv,pytorch,tensorflow,tailwind,git,github,aws,vercel,vscode,figma,postman,linux&perline=10"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2-dev&theme=tokyonight&hide_border=true&layout=compact)
+</p>
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=piyush2-dev&icon=5&color=12)
+# 🚀 Currently Exploring
+
+<table>
+<tr>
+<td>
+
+### AI / Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- LangGraph
+- Pinecone
+- Hugging Face
+- Prompt Engineering
+- Agentic AI
+
+</td>
+
+<td>
+
+### Development
+
+- React.js
+- Next.js
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- OpenCV
+- Cloud Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Data Structures & Algorithms
+✔ Machine Learning
+✔ Deep Learning
+✔ Computer Vision
+✔ Large Language Models
+✔ Agentic AI
+✔ Cloud Computing
+```
+
+---
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🌦️ OpenWeather AI | AI-powered weather prediction platform | React, OpenWeather API |
+| 🤖 SmartHire AI | Resume Analyzer & ATS Score Predictor | Python, NLP, LLM |
+| 🎙️ Ace Career Assistant | Voice-enabled AI Career Assistant | LLM, Speech Recognition |
+| 🌐 Portfolio Website | Modern developer portfolio | React, Tailwind CSS |
+| 🎮 Tic Tac Toe AI | Human vs AI game | JavaScript |
+
+---
+
+# 🏆 Achievements
+
+- 🥉 3rd Place — Dataventics GenAI Hackathon
+- 🚀 Built multiple AI-powered web applications
+- 💡 Active Hackathon Participant
+- 🌟 Open Source Enthusiast
+- 💻 Passionate about solving real-world problems
+
+---
+
+# 📜 Certifications
+
+- Google Cloud Skills Boost
+- Generative AI
+- Python Programming
+- C Programming
+- Machine Learning Fundamentals
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=piyush2-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=piyush2-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush2-dev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/piyush2-dev" />
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=piyush2-dev&theme=tokyonight&row=2&column=4&no-frame=true"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush2-dev&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyush2-dev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyush2-dev&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyush2-dev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyush2-dev&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ❤️ Support
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+---
+
+<p align="center">
+
+### Thanks for visiting!
+
+Happy Coding 🚀
+
+</p>
