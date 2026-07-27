@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Piyush</h1><br><h3 align="center">A passionate Developer from India</h3><br><br>- * I’m currently working on **AI/ML projects, LLM-powered applications, and intelligent web solutions**<br><br>
+About Me:
+<h1 align="center">Hi, I'm Piyush</h1><br><h3 align="center">Dev , Human</h3><br><br>- * I’m currently working on **AI/ML projects, LLM-powered applications, and intelligent web solutions**<br><br>
 
 * I’m currently learning **LangChain, LangGraph, Pinecone, RAG, OpenCV, and Agentic AI**<br><br>
 
