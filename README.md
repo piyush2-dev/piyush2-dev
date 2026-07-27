@@ -1,15 +1,16 @@
 About Me:
-<h1 align="center">Hi, I'm Piyush</h1><br><h3 align="center">Dev , Human</h3><br><br>- * I’m currently working on **AI/ML projects, LLM-powered applications, and intelligent web solutions**<br><br>
+<h1 align="center">Hi, I'm Piyush</h1><br><h3 align="center">">Dev , Human</h3><br>
+Code. Create. Innovate.</h3><br><br>- * I’m currently working on **AI/ML projects, LLM-powered applications, and Real World Solutions**<br><br>
 
-* I’m currently learning **LangChain, LangGraph, Pinecone, RAG, OpenCV, and Agentic AI**<br><br>
+* I’m currently learning **LangChain, GenAI, RAG, OpenCV, and Agentic AI**<br><br>
 
 * I’m looking to collaborate on **Open-source AI/ML, Generative AI, and Full-Stack projects**<br><br>
 
-* I’m looking for help with **building production-ready AI applications and optimizing LLM workflows**<br><br>
+* I’m looking for help with **Building production-ready AI applications and optimizing LLM workflows**<br><br>
 
 * All of my projects are available at **https://github.com/piyush2-dev**<br><br>
 
-* Ask me about **React, JavaScript, Python, C++, AI/ML, LangChain, OpenCV, and modern UI/UX**<br><br>
+* Ask me about **Algorithms and their Optimized solutions**<br><br>
 
 * Reach me at **[sonkusarepiyush9@gmail.com](mailto:sonkusarepiyush9@gmail.com)**<br><br>
 
