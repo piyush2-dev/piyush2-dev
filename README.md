@@ -7,7 +7,7 @@
 <h1 align="center">Piyush Sonkusare</h1>
 
 <h3 align="center">
-Developer • AI/ML Enthusiast • Building Intelligent Experiences
+Developer • Human
 </h3>
 
 <p align="center">
@@ -28,17 +28,17 @@ Developer • AI/ML Enthusiast • Building Intelligent Experiences
 
 ---
 
-# 💫 About Me
+#  About Me :
 
-- 🔭 Currently working on **AI/ML projects, LLM-powered applications, and real-world intelligent solutions**
+-  Currently working on **AI/ML projects, LLM-powered applications, and real-world intelligent solutions**
 
-- 🌱 Currently learning **LangChain, LangGraph, RAG, Pinecone, OpenCV, Agentic AI, and Cloud**
+-  Currently learning **LangChain, RAG, Pinecone, OpenCV, Agentic AI, and Cloud**
 
-- 👯 Looking to collaborate on **Open Source AI/ML, Generative AI, Computer Vision, and Full Stack projects**
+-  Looking to collaborate on **Open Source AI/ML, GenAI, Computer Vision, and Full Stack projects**
 
-- 🤝 Looking for help with **Production-ready LLM applications and scalable AI systems**
+-  Looking for help with **Production-ready LLM applications and scalable AI systems**
 
-- 👨‍💻 Portfolio & Projects:
+- Portfolio & Projects:
   
   **https://github.com/piyush2-dev**
 
@@ -48,8 +48,7 @@ Developer • AI/ML Enthusiast • Building Intelligent Experiences
   - React.js
   - Python
   - AI/ML
-  - OpenCV
-  - LangChain
+  - Cloud
 
 - 📫 Reach me at
 
