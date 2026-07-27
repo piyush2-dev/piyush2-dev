@@ -1,6 +1,5 @@
 About Me:
-<h1 align="center">Hi, I'm Piyush</h1><br><h3 align="center">">Dev , Human</h3><br>
-Code. Create. Innovate.</h3><br><br>- * I’m currently working on **AI/ML projects, LLM-powered applications, and Real World Solutions**<br><br>
+<h1 align="center">Hi, I'm Piyush</h1><br><h3 align="center"> * I’m currently working on **AI/ML projects, LLM-powered applications, and Real World Solutions**<br><br>
 
 * I’m currently learning **LangChain, GenAI, RAG, OpenCV, and Agentic AI**<br><br>
 
