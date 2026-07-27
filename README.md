@@ -1,62 +1,59 @@
-About Me:
-<h1 align="center">Hi, I'm Piyush</h1><br><h3 align="center">DEV : HUMAN
- 
- 
- * I’m currently working on **AI/ML projects, LLM-powered applications, and Real World Solutions**<br><br>
+<h1 align="center">Hi 👋, I'm Piyush Sonkusare</h1>
 
-* I’m currently learning **LangChain, GenAI, RAG, OpenCV, and Agentic AI**<br><br>
-
-* I’m looking to collaborate on **Open-source AI/ML, Generative AI, and Full-Stack projects**<br><br>
-
-* I’m looking for help with **Building production-ready AI applications and optimizing LLM workflows**<br><br>
-
-* All of my projects are available at **https://github.com/piyush2-dev**<br><br>
-
-* Ask me about **Algorithms and their Optimized solutions**<br><br>
-
-* Reach me at **[sonkusarepiyush9@gmail.com](mailto:sonkusarepiyush9@gmail.com)**<br><br>
-
-* Passionate about participating in **hackathons** and building AI-driven solutions that solve real-world problems.<br><br>
-
-* Fun Fact : **Most of my side projects begin as experiments and eventually evolve into complete GitHub repositories.**
-  
-<p align="left">
-  <a href="https://www.linkedin.com/in/piyushsonkusare/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-alt.svg"
-         alt="LinkedIn"
-         height="30"
-         width="40" />
-  </a>
-
-  <a href="https://github.com/piyush2-dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github"
-         alt="GitHub"
-         height="30"
-         width="40" />
-  </a>
-
-  <a href="mailto:sonkusarepiyush9@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"
-         alt="Gmail"
-         height="30"
-         width="40" />
-  </a>
-</p>
- 
- src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyushsonkusare/" height="30" width="40" /></a><br></p><br><br><h3 align="left">Languages and Tools:</h3><br><p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Piyush Sonkusare) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=piyush2-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=piyush2-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">Developer • AI/ML Enthusiast • Building Intelligent Experiences</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=piyush2-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- Currently working on **AI/ML projects, LLM-powered applications, and real-world solutions**
+- Learning **LangChain, Generative AI, RAG, OpenCV, and Agentic AI**
+- Looking to collaborate on **Open-source AI/ML, Generative AI, and Full-Stack projects**
+- Seeking guidance on **building production-ready AI systems and optimizing LLM workflows**
+- Explore my work: **https://github.com/piyush2-dev**
+- Ask me about **Data Structures & Algorithms, React, Python, and AI**
+- Email: **sonkusarepiyush9@gmail.com**
+- Passionate about **hackathons** and solving real-world problems through technology.
+- Fun fact: **Most of my side projects begin as experiments and eventually evolve into complete GitHub repositories.**
+
+---
+
+## Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/piyushsonkusare/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/piyush2-dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:sonkusarepiyush9@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+## Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,fastapi,mysql,firebase,opencv,tensorflow,pytorch,tailwind,git,github,vscode,figma,aws" />
+
+</p>
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=piyush2-dev&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=piyush2-dev&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2-dev&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=piyush2-dev&icon=5&color=12)
