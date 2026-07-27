@@ -20,19 +20,26 @@ About Me:
 
 * Fun Fact : **Most of my side projects begin as experiments and eventually evolve into complete GitHub repositories.**
   
-<h3 align="left">Connect with me:</h3>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/piyushsonkusare/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
   </a>
 
   <a href="https://github.com/piyush2-dev" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=github"
+         alt="GitHub"
+         height="30"
+         width="40" />
   </a>
 
   <a href="mailto:sonkusarepiyush9@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail"
+         alt="Gmail"
+         height="30"
+         width="40" />
   </a>
 </p>
  
