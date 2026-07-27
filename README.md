@@ -18,7 +18,7 @@ About Me:
 
 * Passionate about participating in **hackathons** and building AI-driven solutions that solve real-world problems.<br><br>
 
-* Fun fact: **Most of my side projects begin as experiments and eventually evolve into complete GitHub repositories.**
+* Fun Fact : **Most of my side projects begin as experiments and eventually evolve into complete GitHub repositories.**
   
 <h3 align="left">Connect with me:</h3>
 
