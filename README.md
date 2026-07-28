@@ -84,7 +84,7 @@ Developer • Human
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,typescript,react,nextjs,nodejs,express,fastapi,django,flask,mysql,mongodb,firebase,opencv,pytorch,tensorflow,tailwind,git,github,aws,vercel,vscode,figma,postman,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,typescript,react,nextjs,nodejs,express,fastapi,django,flask,mysql,mongodb,firebase,opencv,pytorch,tensorflow,tailwind,git,github,vercel,vscode,figma,linux&perline=10"/>
 
 </p>
 
@@ -144,108 +144,32 @@ Developer • Human
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
-| 🌦️ OpenWeather AI | AI-powered weather prediction platform | React, OpenWeather API |
-| 🤖 SmartHire AI | Resume Analyzer & ATS Score Predictor | Python, NLP, LLM |
-| 🎙️ Ace Career Assistant | Voice-enabled AI Career Assistant | LLM, Speech Recognition |
-| 🌐 Portfolio Website | Modern developer portfolio | React, Tailwind CSS |
-| 🎮 Tic Tac Toe AI | Human vs AI game | JavaScript |
+|  OpenWeather AI | AI-powered weather prediction platform | ML, RAG & APIs |
+|  SmartHire AI | Resume Analyzer & ATS Score Predictor | Python, NLP, LLM |
+|  Ace Career Assistant | Voice-enabled AI Career Assistant | LLM, Speech Recognition |
+|  Portfolio Website | Modern developer portfolio | React, Tailwind CSS |
 
 ---
 
 # 🏆 Achievements
 
-- 🥉 3rd Place — Dataventics GenAI Hackathon
-- 🚀 Built multiple AI-powered web applications
-- 💡 Active Hackathon Participant
-- 🌟 Open Source Enthusiast
-- 💻 Passionate about solving real-world problems
+-  2nd Runners Up @Dataventics GenAI Hackathon
+-  Built multiple AI-powered web applications
+-  Active Hackathon Participant
+-  Open Source Contributoe
+-  Passionate about solving real-world problems
 
 ---
 
 # 📜 Certifications
 
-- Google Cloud Skills Boost
-- Generative AI
-- Python Programming
-- C Programming
-- Machine Learning Fundamentals
+- Google Cloud Skills Badge
+- Mastering GenAI by GFG
+- Advanced Python 
+- ALgorithms by Coursera
+- ML & DL Fundamentals
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=piyush2-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=piyush2-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush2-dev&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/piyush2-dev" />
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=piyush2-dev&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
-</p>
-
----
-
-# ⚡ GitHub Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush2-dev&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyush2-dev&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyush2-dev&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyush2-dev&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyush2-dev&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
 
 ---
 
