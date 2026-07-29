@@ -32,7 +32,7 @@ Developer • Human
 
 -  Currently working on **AI/ML projects, LLM-powered applications, and real-world intelligent solutions**
 
--  Currently learning **LangChain, RAG, Pinecone, OpenCV, Agentic AI, and Cloud**
+-  Currently learning **GenAI, RAG, OpenCV, Agentic AI, and Cloud**
 
 -  Looking to collaborate on **Open Source AI/ML, GenAI, Computer Vision, and Full Stack projects**
 
